@@ -1,5 +1,6 @@
 # CSS Exercises
 
+## FOUNDATIONS
 # 01-css-methods
 
 ![img1](/assets/desired-outcome.png) <br>
@@ -29,3 +30,13 @@ This is the [live](https://valerialeonh.github.io./css-exercises/foundations/05-
  
 ![img6](/assets/desired-outcome%20copy%206.png) <br>
 This is the [live](https://valerialeonh.github.io./css-exercises/foundations/06-cascade-fix/)
+
+## MARGIN AND PADDING
+
+# 01-margin-and-padding-1
+
+![01-margin-and-padding-1](/assets_margin_and_padding/desired-outcome.png)
+
+# 02-margin-and-padding-2
+
+![02-margin-and-padding-2](/assets_margin_and_padding/desired-outcome%20copy.png)
