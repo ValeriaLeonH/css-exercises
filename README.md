@@ -40,3 +40,5 @@ This is the [live](https://valerialeonh.github.io./css-exercises/foundations/06-
 # 02-margin-and-padding-2
 
 ![02-margin-and-padding-2](/assets_margin_and_padding/desired-outcome%20copy.png)
+
+This is the [live](https://valerialeonh.github.io./css-exercises/margin-and-padding)
