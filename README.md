@@ -44,3 +44,23 @@ This is the [live](https://valerialeonh.github.io./css-exercises/margin-and-padd
 ![02-margin-and-padding-2](/assets_margin_and_padding/desired-outcome%20copy.png)
 
 This is the [live](https://valerialeonh.github.io./css-exercises/margin-and-padding/02-margin-and-padding-2)
+
+# FLEX 
+
+# 01-flex-center
+
+![01-flex-center](assets/desired-outcome copy 7)
+
+This is the [live](https://valerialeonh.github.io./css-exercises/flex/01-flex-center)
+
+# 02-flex-header
+ 
+# 03-flex-header-2
+
+# 04-flex-information
+
+# 05-flex-modal
+
+# 06-flex-layout
+
+# 07-flex-layout-2
