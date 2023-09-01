@@ -35,7 +35,7 @@ This is the [live](https://valerialeonh.github.io./css-exercises/foundations/06-
 
 # 01-margin-and-padding-1
 
-![01-margin-and-padding-1](/assets_margin_and_padding/desired-outcome.png)
+![01-margin-and-padding-1]()
 
 This is the [live](https://valerialeonh.github.io./css-exercises/margin-and-padding/01-margin-and-padding-1)
 
@@ -49,13 +49,21 @@ This is the [live](https://valerialeonh.github.io./css-exercises/margin-and-padd
 
 # 01-flex-center
 
-![01-flex-center](assets/desired-outcome copy 7)
+![01-flex-center](/assets_flex/desired-outcome%20copy%207.png)
 
-This is the [live](https://valerialeonh.github.io./css-exercises/flex/01-flex-center)
+This is the [live](https://valerialeonh.github.io/css-exercises/flex/01-flex-center)
 
 # 02-flex-header
+
+![02-flex-header](/assets_flex/desired-outcome-wide.png)
+
+This is [live](https://valerialeonh.github.io./css-exercises/flex/02-flex-header/)
  
 # 03-flex-header-2
+
+![03-flex-header-2](/assets_flex/desired-outcome%20copy.png)
+
+This is [live](https://valerialeonh.github.io/css-exercises/flex/03-flex-header-2/)
 
 # 04-flex-information
 
